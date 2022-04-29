@@ -1,0 +1,16 @@
+{
+  "name": "kekchat",
+  "version": "0.1.0-alpha",
+  "description": "AI-powered chatbot for Art Union.",
+  "main": "index.js",
+  "repository": "https://github.com/spuuntries/kekchat",
+  "author": "spuun <kek@spuun.art>",
+  "license": "CC-BY-NC-SA-4.0",
+  "private": true,
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "enmap": "^5.9.0",
+    "pythonia": "^0.2.16"
+  }
+}
