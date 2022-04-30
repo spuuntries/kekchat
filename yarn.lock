@@ -462,10 +462,9 @@ pump@^3.0.0:
     end-of-stream "^1.1.0"
     once "^1.3.1"
 
-pythonia@^0.2.16:
+"pythonia@https://github.com/spuuntries/jspybridge":
   version "0.2.16"
-  resolved "https://registry.yarnpkg.com/pythonia/-/pythonia-0.2.16.tgz#aa407c9fec3e199ddba6bac7dc27d6cda4b65ff9"
-  integrity sha512-fl0n0LQdNYd0TunjMS6Ic/I5qeO9E1zzggcCs6bqY4vjxcQ2/uxFDB/xmvOii8e91gANXIpdUOeqI0W7feMM/Q==
+  resolved "https://github.com/spuuntries/jspybridge#a60f30ccc50ca937200a18bac5bca9191e4b9d08"
   dependencies:
     caller "^1.0.1"
     chalk "^4.1.2"
